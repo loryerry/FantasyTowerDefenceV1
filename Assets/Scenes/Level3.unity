@@ -15421,6 +15421,11 @@ PrefabInstance:
       propertyPath: m_Text
       value: End!
       objectReference: {fileID: 0}
+    - target: {fileID: 7901864706995343099, guid: 96264e2dcd7e37345be1f625b590f3de,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 18.52002
+      objectReference: {fileID: 0}
     - target: {fileID: 7901864707360192112, guid: 96264e2dcd7e37345be1f625b590f3de,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
